@@ -1,0 +1,3 @@
+2023-07-20 16:27:58,091 - root - DEBUG - this is debug message
+2023-07-20 16:27:58,091 - root - INFO - this is info message
+2023-07-20 16:27:58,091 - root - WARNING - this is warning message

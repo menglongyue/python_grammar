@@ -1,0 +1,3 @@
+2023-07-20 16:43:31 - __main__ - WARNING - this is warning message
+2023-07-20 16:43:31 - __main__ - ERROR - this is error message
+2023-07-20 16:43:31 - __main__ - CRITICAL - this is critical message
